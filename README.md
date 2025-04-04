@@ -263,3 +263,7 @@ Se verificó conectividad mediante `ping`:
 ## Conclusión
 
 Este proyecto demuestra el diseño e implementación de una red segmentada con VLANs, enrutamiento inter-VLAN mediante subinterfaces y enlace entre dos dominios de red mediante rutas estáticas. La solución es jerárquica, escalable y refleja un modelo realista de red empresarial distribuida.
+
+
+
+![EJ2](https://github.com/user-attachments/assets/fe09fd98-24d3-463a-b7af-7f0dfcfcbfbe)
